@@ -8,3 +8,4 @@ Then you can run the crawler.
 run main.py to crawl IDs fom Pixiv.
 The date range can be config in main.py
 
+The convert.py can be used to merge IDs files into several big files, which can be usefull when copy the IDs for downloading.
